@@ -1,0 +1,19 @@
+{
+  "name": "ml-wdt",
+  "version": "0.0.3",
+  "description": "The wdt package for Microlattice.js",
+  "main": "index.js",
+  "supportIC": [
+    "mt7687"
+  ],
+  "src": [
+    "./src/ml-wdt.c"
+  ],
+  "scripts": {
+    "test": ""
+  },
+  "author": {
+    "name": "iamblue"
+  },
+  "license": "apache2"
+}
